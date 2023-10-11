@@ -1,0 +1,196 @@
+[INFO ] 2023-10-11 19:51:11.000 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    Powered by [1mSHAFT v.7.3.20230929[22m                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-11 19:51:12.115 [main] ReportManager - Loaded OpenCV "opencv_java470".
+[INFO ] 2023-10-11 19:51:12.116 [main] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2023-10-11 19:51:12.350 [main] ReportManager - Initializing Extent Reporting Environment...
+[INFO ] 2023-10-11 19:51:13.122 [main] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2023-10-11 19:51:13.402 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[INFO ] 2023-10-11 19:51:13.410 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[INFO ] 2023-10-11 19:51:13.413 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.413 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.421 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+[INFO ] 2023-10-11 19:51:13.455 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 33 ms.
+[INFO ] 2023-10-11 19:51:13.456 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.456 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.457 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.457 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.459 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.459 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.460 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.460 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.460 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.460 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.466 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.466 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.466 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.468 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.474 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[INFO ] 2023-10-11 19:51:13.474 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.476 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.476 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.477 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.477 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.477 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.477 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.479 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.479 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.479 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.479 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.480 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.480 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.480 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.480 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.481 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.481 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.481 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.481 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.484 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.484 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.485 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.485 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.487 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2023-10-11 19:51:13.491 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[INFO ] 2023-10-11 19:51:13.494 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.498 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.499 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.499 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-11 19:51:13.518 [main] Utils - [TestNG] Running:
+  C:\Users\moham\AppData\Local\Temp\testng-eclipse--1093244845\testng-customsuite.xml
+
+[INFO ] 2023-10-11 19:51:13.590 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-11 19:51:13.748 [main] ReportManager - Initializing Important Links...
+[INFO ] 2023-10-11 19:51:13.759 [main] ReportManager - Initializing Properties...
+[INFO ] 2023-10-11 19:51:13.924 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of before test configuration method                                             
+                                                        'Tests.SubscribeTest.beforeTest'                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-11 19:51:13.958 [main] ReportManager - Setting "targetOperatingSystem" property with "windows".
+[INFO ] 2023-10-11 19:51:13.988 [main] ReportManager - Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--start-maximized, --remote-allow-origins=*, --enable-automation, --disable-background-timer-..., --disable-backgrounding-occ..., --disable-features=Calculat..., --disable-hang-monitor, --disable-domain-reliability, --disable-renderer-backgrou..., --disable-features=Autofill..., --metrics-recording-only, --no-first-run, --no-default-browser-check, --silent-debugger-extension..., --disable-extensions, --disable-component-extensi..., --disable-dev-shm-usage, --disable-features=MediaRouter, --disable-features=Translate, --disable-ipc-flooding-prot..., --disable-background-networ..., --mute-audio, --disable-breakpad, --ignore-certificate-errors, --disable-device-discovery-..., --force-color-profile=srgb, --hide-scrollbars, --host-resolver-rules, --no-pings, --disable-features=AvoidUnn..., --disable-features=Certific..., --disable-sync, --disable-features=Optimiza..., --disable-features=DialMedi..., --disable-features=GlobalMe..., --disable-features=Improved..., --disable-features=LazyFram..., --disable-field-trial-config, --enable-features=NetworkSe..., --enable-features=NetworkSe..., --enable-use-zoom-for-dsf, --log-net-log, --net-log-capture-mode, --disable-client-side-phish..., --disable-default-apps, --disable-features=Interest...], extensions: [], prefs: {download.default_directory: C:\Users\moham\eclipse-work..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: none, timeouts: {pageLoad: 60000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: true}
+[INFO ] 2023-10-11 19:51:13.989 [main] ReportManager - Attempting to run locally on: "windows | Chrome".
+[INFO ] 2023-10-11 19:51:13.989 [main] ReportManager - Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time...
+[INFO ] 2023-10-11 19:51:17.843 [main] ReportManager - Successfully Opened: "windows | Chrome".
+[INFO ] 2023-10-11 19:51:17.903 [main] ReportManager - Initial window size: (1552, 832)
+[INFO ] 2023-10-11 19:51:17.914 [main] ReportManager - Window size after SWD Maximize: (1552, 832)
+[INFO ] 2023-10-11 19:51:18.399 [main] ReportManager - Window size after Toolkit: (1536, 864)
+[INFO ] 2023-10-11 19:51:18.664 [main] ReportManager - Window size after WebDriver.Manage.Window: (1554, 882)
+[INFO ] 2023-10-11 19:51:18.675 [main] ReportManager - Initial Windows Size: 1554x882
+[INFO ] 2023-10-11 19:51:18.763 [main] ReportManager - Current Windows Size after fullScreen: 1536x864
+[INFO ] 2023-10-11 19:51:18.787 [main] ReportManager - Successfully created attachment 'Browser Action Test Data - Full screen window - Actual Value'
+[INFO ] 2023-10-11 19:51:18.793 [main] ReportManager - Window size after fullScreenWindow: (1536, 864)
+[INFO ] 2023-10-11 19:51:18.793 [main] ReportManager - skipping window maximization due to unknown error, marking step as passed.
+[INFO ] 2023-10-11 19:51:18.794 [main] ReportManager - Maximize window "New screen size is now: (1536, 864)".
+[INFO ] 2023-10-11 19:51:18.822 [main] ReportManager - Target URL: "https://subscribe.stctv.com/sa-en"
+[INFO ] 2023-10-11 19:51:18.859 [main] ReportManager - Initial URL: "about:blank"
+[INFO ] 2023-10-11 19:51:25.545 [main] ReportManager - Navigate to url "https://subscribe.stctv.com/sa-en".
+[INFO ] 2023-10-11 19:51:25.564 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+[INFO ] 2023-10-11 19:51:25.639 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 3' test cases in the current suite                                        
+                          Test Method: 'Tests.SubscribeTest.Validate_Packages_Type_And_Price_And_currecny_For_Bahrain'                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-11 19:51:25.970 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-10-11 19:51:26.056 [main] ReportManager - Click "sa KSA".
+[INFO ] 2023-10-11 19:51:26.327 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-10-11 19:51:26.408 [main] ReportManager - Click "bh Bahrain".
+[INFO ] 2023-10-11 19:51:31.073 [main] ReportManager - Get text "LITE" from "By.id: name-lite".
+[INFO ] 2023-10-11 19:51:31.207 [main] ReportManager - Get text "2" from "By.cssSelector: #currency-lite > b".
+[INFO ] 2023-10-11 19:51:31.327 [main] ReportManager - Get text "BHD/month" from "By.cssSelector: #currency-lite > i".
+[INFO ] 2023-10-11 19:51:31.434 [main] ReportManager - Get text "CLASSIC" from "By.id: name-classic".
+[INFO ] 2023-10-11 19:51:31.548 [main] ReportManager - Get text "3" from "By.cssSelector: #currency-classic > b".
+[INFO ] 2023-10-11 19:51:31.673 [main] ReportManager - Get text "BHD/month" from "By.cssSelector: #currency-classic > i".
+[INFO ] 2023-10-11 19:51:31.788 [main] ReportManager - Get text "PREMIUM" from "By.id: name-premium".
+[INFO ] 2023-10-11 19:51:31.902 [main] ReportManager - Get text "6" from "By.cssSelector: #currency-premium > b".
+[INFO ] 2023-10-11 19:51:32.045 [main] ReportManager - Get text "BHD/month" from "By.cssSelector: #currency-premium > i".
+[INFO ] 2023-10-11 19:51:32.050 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: Validate_Packages_Type_And_Price_And_currecny_For_Bahrain'
+[INFO ] 2023-10-11 19:51:32.051 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+               Finished Execution of Test Method: 'Tests.SubscribeTest.Validate_Packages_Type_And_Price_And_currecny_For_Bahrain'               
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-11 19:51:32.190 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 3' test cases in the current suite                                        
+                            Test Method: 'Tests.SubscribeTest.Validate_Packages_Type_And_Price_And_currecny_For_KSA'                            
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-11 19:51:32.419 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-10-11 19:51:32.480 [main] ReportManager - Click "bh Bahrain".
+[INFO ] 2023-10-11 19:51:32.715 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-10-11 19:51:32.773 [main] ReportManager - Click "sa KSA".
+[INFO ] 2023-10-11 19:51:34.732 [main] ReportManager - Get text "LITE" from "By.id: name-lite".
+[INFO ] 2023-10-11 19:51:34.843 [main] ReportManager - Get text "15" from "By.cssSelector: #currency-lite > b".
+[INFO ] 2023-10-11 19:51:34.950 [main] ReportManager - Get text "SAR/month" from "By.cssSelector: #currency-lite > i".
+[INFO ] 2023-10-11 19:51:35.057 [main] ReportManager - Get text "CLASSIC" from "By.id: name-classic".
+[INFO ] 2023-10-11 19:51:35.159 [main] ReportManager - Get text "25" from "By.cssSelector: #currency-classic > b".
+[INFO ] 2023-10-11 19:51:35.264 [main] ReportManager - Get text "SAR/month" from "By.cssSelector: #currency-classic > i".
+[INFO ] 2023-10-11 19:51:35.349 [main] ReportManager - Get text "PREMIUM" from "By.id: name-premium".
+[INFO ] 2023-10-11 19:51:35.437 [main] ReportManager - Get text "60" from "By.cssSelector: #currency-premium > b".
+[INFO ] 2023-10-11 19:51:35.524 [main] ReportManager - Get text "SAR/month" from "By.cssSelector: #currency-premium > i".
+[INFO ] 2023-10-11 19:51:35.526 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: Validate_Packages_Type_And_Price_And_currecny_For_KSA'
+[INFO ] 2023-10-11 19:51:35.526 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                 Finished Execution of Test Method: 'Tests.SubscribeTest.Validate_Packages_Type_And_Price_And_currecny_For_KSA'                 
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-11 19:51:35.538 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '3 out of 3' test cases in the current suite                                        
+                           Test Method: 'Tests.SubscribeTest.Validate_Packages_Type_And_Price_And_currecny_For_Kuwait'                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-11 19:51:35.746 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-10-11 19:51:35.799 [main] ReportManager - Click "sa KSA".
+[INFO ] 2023-10-11 19:51:36.025 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-10-11 19:51:36.082 [main] ReportManager - Click "kw Kuwait".
+[INFO ] 2023-10-11 19:51:38.612 [main] ReportManager - Get text "LITE" from "By.id: name-lite".
+[INFO ] 2023-10-11 19:51:38.714 [main] ReportManager - Get text "1.2" from "By.cssSelector: #currency-lite > b".
+[INFO ] 2023-10-11 19:51:38.806 [main] ReportManager - Get text "KWD/month" from "By.cssSelector: #currency-lite > i".
+[INFO ] 2023-10-11 19:51:38.898 [main] ReportManager - Get text "CLASSIC" from "By.id: name-classic".
+[INFO ] 2023-10-11 19:51:38.982 [main] ReportManager - Get text "2.5" from "By.cssSelector: #currency-classic > b".
+[INFO ] 2023-10-11 19:51:39.080 [main] ReportManager - Get text "KWD/month" from "By.cssSelector: #currency-classic > i".
+[INFO ] 2023-10-11 19:51:39.170 [main] ReportManager - Get text "PREMIUM" from "By.id: name-premium".
+[INFO ] 2023-10-11 19:51:39.256 [main] ReportManager - Get text "4.8" from "By.cssSelector: #currency-premium > b".
+[INFO ] 2023-10-11 19:51:39.351 [main] ReportManager - Get text "KWD/month" from "By.cssSelector: #currency-premium > i".
+[INFO ] 2023-10-11 19:51:39.353 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: Validate_Packages_Type_And_Price_And_currecny_For_Kuwait'
+[INFO ] 2023-10-11 19:51:39.353 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                Finished Execution of Test Method: 'Tests.SubscribeTest.Validate_Packages_Type_And_Price_And_currecny_For_Kuwait'                
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-11 19:51:39.359 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of after class configuration method                                             
+                                                        'Tests.SubscribeTest.afterClass'                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-11 19:51:39.804 [main] ReportManager - Successfully Closed Driver.
+[INFO ] 2023-10-11 19:51:39.835 [main] ReportManager - PASSED: Tests.SubscribeTest.Validate_Packages_Type_And_Price_And_currecny_For_KSA
+[INFO ] 2023-10-11 19:51:39.838 [main] ReportManager - PASSED: Tests.SubscribeTest.Validate_Packages_Type_And_Price_And_currecny_For_Bahrain
+[INFO ] 2023-10-11 19:51:39.838 [main] ReportManager - PASSED: Tests.SubscribeTest.Validate_Packages_Type_And_Price_And_currecny_For_Kuwait
+[INFO ] 2023-10-11 19:51:39.840 [main] ReportManager - ===============================================
+[INFO ] 2023-10-11 19:51:39.841 [main] ReportManager -     Test
+[INFO ] 2023-10-11 19:51:39.841 [main] ReportManager -     Tests run: 3, Failures: 0, Skips: 0
+[INFO ] 2023-10-11 19:51:39.841 [main] ReportManager - ===============================================
+[INFO ] 2023-10-11 19:51:39.845 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine teardown configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTeardown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-11 19:51:39.846 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'
+[INFO ] 2023-10-11 19:51:39.847 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/logs/log4j.log"".
+[INFO ] 2023-10-11 19:51:39.847 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "target/logs/log4j.log"".

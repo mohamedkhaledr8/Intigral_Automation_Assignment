@@ -1,0 +1,19 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '3 out of 3' test cases in the current suite                                        
+                           Test Method: 'Tests.SubscribeTest.Validate_Packages_Type_And_Price_And_currecny_For_Kuwait'                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Moved the mouse to the middle of the element. @11-10-2023 19:51:35.0746 pm
+[ReportManager] Click "sa KSA". @11-10-2023 19:51:35.0798 pm
+[ReportManager] Moved the mouse to the middle of the element. @11-10-2023 19:51:36.0025 pm
+[ReportManager] Click "kw Kuwait". @11-10-2023 19:51:36.0082 pm
+[ReportManager] Get text "LITE" from "By.id: name-lite". @11-10-2023 19:51:38.0611 pm
+[ReportManager] Get text "1.2" from "By.cssSelector: #currency-lite > b". @11-10-2023 19:51:38.0714 pm
+[ReportManager] Get text "KWD/month" from "By.cssSelector: #currency-lite > i". @11-10-2023 19:51:38.0805 pm
+[ReportManager] Get text "CLASSIC" from "By.id: name-classic". @11-10-2023 19:51:38.0898 pm
+[ReportManager] Get text "2.5" from "By.cssSelector: #currency-classic > b". @11-10-2023 19:51:38.0982 pm
+[ReportManager] Get text "KWD/month" from "By.cssSelector: #currency-classic > i". @11-10-2023 19:51:39.0080 pm
+[ReportManager] Get text "PREMIUM" from "By.id: name-premium". @11-10-2023 19:51:39.0170 pm
+[ReportManager] Get text "4.8" from "By.cssSelector: #currency-premium > b". @11-10-2023 19:51:39.0256 pm
+[ReportManager] Get text "KWD/month" from "By.cssSelector: #currency-premium > i". @11-10-2023 19:51:39.0351 pm
