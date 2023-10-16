@@ -1,0 +1,19 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 3' test cases in the current suite                                        
+                          Test Method: 'Tests.SubscribeTest.Validate_Packages_Type_And_Price_And_currecny_For_Bahrain'                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Moved the mouse to the middle of the element. @16-10-2023 11:44:21.0935 am
+[ReportManager] Click "sa KSA". @16-10-2023 11:44:21.0973 am
+[ReportManager] Moved the mouse to the middle of the element. @16-10-2023 11:44:22.0168 am
+[ReportManager] Click "bh Bahrain". @16-10-2023 11:44:22.0202 am
+[ReportManager] Get text "LITE" from "By.id: name-lite". @16-10-2023 11:44:25.0805 am
+[ReportManager] Get text "2" from "By.cssSelector: #currency-lite > b". @16-10-2023 11:44:25.0862 am
+[ReportManager] Get text "BHD/month" from "By.cssSelector: #currency-lite > i". @16-10-2023 11:44:25.0916 am
+[ReportManager] Get text "CLASSIC" from "By.id: name-classic". @16-10-2023 11:44:25.0971 am
+[ReportManager] Get text "3" from "By.cssSelector: #currency-classic > b". @16-10-2023 11:44:26.0023 am
+[ReportManager] Get text "BHD/month" from "By.cssSelector: #currency-classic > i". @16-10-2023 11:44:26.0076 am
+[ReportManager] Get text "PREMIUM" from "By.id: name-premium". @16-10-2023 11:44:26.0132 am
+[ReportManager] Get text "6" from "By.cssSelector: #currency-premium > b". @16-10-2023 11:44:26.0182 am
+[ReportManager] Get text "BHD/month" from "By.cssSelector: #currency-premium > i". @16-10-2023 11:44:26.0231 am

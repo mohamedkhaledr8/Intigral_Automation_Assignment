@@ -1,0 +1,130 @@
+[INFO ] 2023-10-16 11:44:14.067 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    Powered by [1mSHAFT v.7.3.20230929[22m                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-16 11:44:14.664 [main] ReportManager - Loaded OpenCV "opencv_java470".
+[INFO ] 2023-10-16 11:44:14.664 [main] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2023-10-16 11:44:14.727 [main] ReportManager - Initializing Extent Reporting Environment...
+[INFO ] 2023-10-16 11:44:15.060 [main] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2023-10-16 11:44:15.244 [main] Utils - [TestNG] Running:
+  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2022.2\temp-testng-customsuite.xml
+
+[INFO ] 2023-10-16 11:44:15.276 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-16 11:44:15.370 [main] ReportManager - Initializing Important Links...
+[INFO ] 2023-10-16 11:44:15.370 [main] ReportManager - Initializing Properties...
+[INFO ] 2023-10-16 11:44:15.448 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of before test configuration method                                             
+                                                        'Tests.SubscribeTest.beforeTest'                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-16 11:44:15.464 [main] ReportManager - Setting "targetOperatingSystem" property with "windows".
+[INFO ] 2023-10-16 11:44:15.480 [main] ReportManager - Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--start-maximized, --remote-allow-origins=*, --enable-automation, --disable-background-timer-..., --disable-backgrounding-occ..., --disable-features=Calculat..., --disable-hang-monitor, --disable-domain-reliability, --disable-renderer-backgrou..., --disable-features=Autofill..., --metrics-recording-only, --no-first-run, --no-default-browser-check, --silent-debugger-extension..., --disable-extensions, --disable-component-extensi..., --disable-dev-shm-usage, --disable-features=MediaRouter, --disable-features=Translate, --disable-ipc-flooding-prot..., --disable-background-networ..., --mute-audio, --disable-breakpad, --ignore-certificate-errors, --disable-device-discovery-..., --force-color-profile=srgb, --hide-scrollbars, --host-resolver-rules, --no-pings, --disable-features=AvoidUnn..., --disable-features=Certific..., --disable-sync, --disable-features=Optimiza..., --disable-features=DialMedi..., --disable-features=GlobalMe..., --disable-features=Improved..., --disable-features=LazyFram..., --disable-field-trial-config, --enable-features=NetworkSe..., --enable-features=NetworkSe..., --enable-use-zoom-for-dsf, --log-net-log, --net-log-capture-mode, --disable-client-side-phish..., --disable-default-apps, --disable-features=Interest...], extensions: [], prefs: {download.default_directory: C:\Users\moham\git\Intigral..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: none, timeouts: {pageLoad: 60000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: true}
+[INFO ] 2023-10-16 11:44:15.480 [main] ReportManager - Attempting to run locally on: "windows | Chrome".
+[INFO ] 2023-10-16 11:44:15.480 [main] ReportManager - Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time...
+[INFO ] 2023-10-16 11:44:17.293 [main] ReportManager - Successfully Opened: "windows | Chrome".
+[INFO ] 2023-10-16 11:44:17.329 [main] ReportManager - Initial window size: (1936, 1048)
+[INFO ] 2023-10-16 11:44:17.329 [main] ReportManager - Window size after SWD Maximize: (1936, 1048)
+[INFO ] 2023-10-16 11:44:17.775 [main] ReportManager - Window size after Toolkit: (1920, 1080)
+[INFO ] 2023-10-16 11:44:17.775 [main] ReportManager - Maximize window "New screen size is now: (1920, 1080)".
+[INFO ] 2023-10-16 11:44:17.791 [main] ReportManager - Target URL: "https://subscribe.stctv.com/sa-en"
+[INFO ] 2023-10-16 11:44:17.806 [main] ReportManager - Initial URL: "about:blank"
+[INFO ] 2023-10-16 11:44:21.676 [main] ReportManager - Navigate to url "https://subscribe.stctv.com/sa-en".
+[INFO ] 2023-10-16 11:44:21.716 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 3' test cases in the current suite                                        
+                          Test Method: 'Tests.SubscribeTest.Validate_Packages_Type_And_Price_And_currecny_For_Bahrain'                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-16 11:44:21.935 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-10-16 11:44:21.976 [main] ReportManager - Click "sa KSA".
+[INFO ] 2023-10-16 11:44:22.169 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-10-16 11:44:22.202 [main] ReportManager - Click "bh Bahrain".
+[INFO ] 2023-10-16 11:44:25.805 [main] ReportManager - Get text "LITE" from "By.id: name-lite".
+[INFO ] 2023-10-16 11:44:25.862 [main] ReportManager - Get text "2" from "By.cssSelector: #currency-lite > b".
+[INFO ] 2023-10-16 11:44:25.916 [main] ReportManager - Get text "BHD/month" from "By.cssSelector: #currency-lite > i".
+[INFO ] 2023-10-16 11:44:25.972 [main] ReportManager - Get text "CLASSIC" from "By.id: name-classic".
+[INFO ] 2023-10-16 11:44:26.023 [main] ReportManager - Get text "3" from "By.cssSelector: #currency-classic > b".
+[INFO ] 2023-10-16 11:44:26.076 [main] ReportManager - Get text "BHD/month" from "By.cssSelector: #currency-classic > i".
+[INFO ] 2023-10-16 11:44:26.132 [main] ReportManager - Get text "PREMIUM" from "By.id: name-premium".
+[INFO ] 2023-10-16 11:44:26.182 [main] ReportManager - Get text "6" from "By.cssSelector: #currency-premium > b".
+[INFO ] 2023-10-16 11:44:26.231 [main] ReportManager - Get text "BHD/month" from "By.cssSelector: #currency-premium > i".
+[INFO ] 2023-10-16 11:44:26.241 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: Validate_Packages_Type_And_Price_And_currecny_For_Bahrain'
+[INFO ] 2023-10-16 11:44:26.241 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+               Finished Execution of Test Method: 'Tests.SubscribeTest.Validate_Packages_Type_And_Price_And_currecny_For_Bahrain'               
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-16 11:44:26.306 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 3' test cases in the current suite                                        
+                            Test Method: 'Tests.SubscribeTest.Validate_Packages_Type_And_Price_And_currecny_For_KSA'                            
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-16 11:44:26.469 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-10-16 11:44:26.498 [main] ReportManager - Click "bh Bahrain".
+[INFO ] 2023-10-16 11:44:26.683 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-10-16 11:44:26.713 [main] ReportManager - Click "sa KSA".
+[INFO ] 2023-10-16 11:44:28.451 [main] ReportManager - Get text "15" from "By.cssSelector: #currency-lite > b".
+[INFO ] 2023-10-16 11:44:28.493 [main] ReportManager - Get text "SAR/month" from "By.cssSelector: #currency-lite > i".
+[INFO ] 2023-10-16 11:44:28.537 [main] ReportManager - Get text "CLASSIC" from "By.id: name-classic".
+[INFO ] 2023-10-16 11:44:28.579 [main] ReportManager - Get text "25" from "By.cssSelector: #currency-classic > b".
+[INFO ] 2023-10-16 11:44:28.621 [main] ReportManager - Get text "SAR/month" from "By.cssSelector: #currency-classic > i".
+[INFO ] 2023-10-16 11:44:28.668 [main] ReportManager - Get text "PREMIUM" from "By.id: name-premium".
+[INFO ] 2023-10-16 11:44:28.719 [main] ReportManager - Get text "60" from "By.cssSelector: #currency-premium > b".
+[INFO ] 2023-10-16 11:44:28.761 [main] ReportManager - Get text "SAR/month" from "By.cssSelector: #currency-premium > i".
+[INFO ] 2023-10-16 11:44:28.762 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: Validate_Packages_Type_And_Price_And_currecny_For_KSA'
+[INFO ] 2023-10-16 11:44:28.762 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                 Finished Execution of Test Method: 'Tests.SubscribeTest.Validate_Packages_Type_And_Price_And_currecny_For_KSA'                 
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-16 11:44:28.775 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '3 out of 3' test cases in the current suite                                        
+                           Test Method: 'Tests.SubscribeTest.Validate_Packages_Type_And_Price_And_currecny_For_Kuwait'                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-16 11:44:28.926 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-10-16 11:44:28.952 [main] ReportManager - Click "sa KSA".
+[INFO ] 2023-10-16 11:44:29.127 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-10-16 11:44:29.156 [main] ReportManager - Click "kw Kuwait".
+[INFO ] 2023-10-16 11:44:32.035 [main] ReportManager - Get text "1.2" from "By.cssSelector: #currency-lite > b".
+[INFO ] 2023-10-16 11:44:32.086 [main] ReportManager - Get text "KWD/month" from "By.cssSelector: #currency-lite > i".
+[INFO ] 2023-10-16 11:44:32.135 [main] ReportManager - Get text "CLASSIC" from "By.id: name-classic".
+[INFO ] 2023-10-16 11:44:32.187 [main] ReportManager - Get text "2.5" from "By.cssSelector: #currency-classic > b".
+[INFO ] 2023-10-16 11:44:32.238 [main] ReportManager - Get text "KWD/month" from "By.cssSelector: #currency-classic > i".
+[INFO ] 2023-10-16 11:44:32.286 [main] ReportManager - Get text "PREMIUM" from "By.id: name-premium".
+[INFO ] 2023-10-16 11:44:32.335 [main] ReportManager - Get text "4.8" from "By.cssSelector: #currency-premium > b".
+[INFO ] 2023-10-16 11:44:32.390 [main] ReportManager - Get text "KWD/month" from "By.cssSelector: #currency-premium > i".
+[INFO ] 2023-10-16 11:44:32.398 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: Validate_Packages_Type_And_Price_And_currecny_For_Kuwait'
+[INFO ] 2023-10-16 11:44:32.398 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                Finished Execution of Test Method: 'Tests.SubscribeTest.Validate_Packages_Type_And_Price_And_currecny_For_Kuwait'                
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-16 11:44:32.400 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of after class configuration method                                             
+                                                        'Tests.SubscribeTest.afterClass'                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-16 11:44:32.709 [main] ReportManager - Successfully Closed Driver.
+[INFO ] 2023-10-16 11:44:32.720 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine teardown configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTeardown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-16 11:44:32.721 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'
+[INFO ] 2023-10-16 11:44:32.721 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/logs/log4j.log"".
+[INFO ] 2023-10-16 11:44:32.721 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "target/logs/log4j.log"".
